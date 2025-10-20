@@ -1,0 +1,13 @@
+campaign_id;category;channel;discount_type;net_spend;incr_revenue_net;incr_gross_profit;net_profit;roi
+P003;Pet Pharma;Paid Social;% off;27000;23760.0;12830.4;-14169.6;-0.52
+P002;Pet Pharma;Email;Bundle;40000;31680.0;18374.4;-21625.6;-0.54
+P001;Pet Pharma;Onsite;% off;49000;39424.0;21683.2;-27316.8;-0.56
+A001;Accessories;Onsite;% off;37000;21120.0;9504.0;-27496.0;-0.74
+A002;Accessories;Email;Bundle;27500;14168.0;6092.24;-21407.76;-0.78
+A003;Accessories;Paid Search;% off;33000;12100.0;5566.0;-27434.0;-0.83
+L002;Litter;Email;Bundle;20500;8448.0;2280.96;-18219.04;-0.89
+F002;Pet Food;Onsite;Bundle;57000;17600.0;5280.0;-51720.0;-0.91
+F003;Pet Food;Paid Social;BOGO;41000;12812.8;3331.33;-37668.67;-0.92
+L003;Litter;Paid Search;% off;24500;7638.4;1985.98;-22514.02;-0.92
+L001;Litter;Onsite;% off;36000;9504.0;2376.0;-33624.0;-0.93
+F001;Pet Food;Email;% off;65000;13860.0;3880.8;-61119.2;-0.94
